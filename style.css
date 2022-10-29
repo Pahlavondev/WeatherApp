@@ -6,7 +6,7 @@
 
 body {
   font-family: sans-serif;
-  background-image: url(./img/img2.jpg);
+  background-image: url(./img/img.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -38,7 +38,7 @@ header input {
   outline: none;
   background-color: rgba(255, 255, 255, 0.4);
   border-radius: 16px 0px 16px 0px;
-  border-bottom: 3px solid #5e353b;
+  border-bottom: 3px solid #ff9505;
   color: #333;
   font-size: 20px;
   font-weight: 300;
